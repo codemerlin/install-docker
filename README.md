@@ -1,4 +1,4 @@
 
 ```
- curl -fsSL https://get.docker.com/ | bash 
+ curl -fsSL https://raw.githubusercontent.com/codemerlin/install-docker/master/install.sh | bash 
 ```
